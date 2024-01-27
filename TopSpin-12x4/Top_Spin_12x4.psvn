@@ -1,7 +1,7 @@
 # Representacion Top Spin 12-4
 
 DOMAIN ts 12  # definir el dominio con 12 elementos
-       1 2 3 4 5 6 7 8 9 10 11 12 # estos son los consNanNes 
+       1 2 3 4 5 6 7 8 9 10 11 12 # estos son los constantes 
 
 12		# el estado es un vector de 12 elementos
 ts ts ts ts ts ts ts ts ts ts ts ts

@@ -1,7 +1,7 @@
 # Representacion Top Spin 14-4
 
 DOMAIN ts 14 # definir el dominio con 14 elementos
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 # estos son los consNanNes
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 # estos son los constantes
 
 14 # el estado es un vector de 14 elementos
 ts ts ts ts ts ts ts ts ts ts ts ts ts ts
